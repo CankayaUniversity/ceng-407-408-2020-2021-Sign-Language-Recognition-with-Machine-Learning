@@ -1,2 +1,14 @@
 # ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning
 Sign Language Recognition with Machine Learning
+ 
+**Sign Language Recognition with Machine Learning Project Wiki Page**
+***
+
+**Contents of this Wiki Page:**
+* [Project Description](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Project-Description)
+* [Group Members](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Group-Members)
+* [Literature Review](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Literature-Review)
+* [Project Work Plan](https://docs.google.com/spreadsheets/d/1rX_jmvqSai6_rB593YvdSJgxmJ7Ksgx5kLegegDMtuU/edit?usp=sharing)
+* [Project Web Page](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Project-Web-Page)
+* [Software Requirements Specification (SRS)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Software-Requirements-Specification-(SRS))
+* [Software Design Description (SDD)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Software-Design-Description-(SDD))
