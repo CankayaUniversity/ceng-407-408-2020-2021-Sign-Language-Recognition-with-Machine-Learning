@@ -1,0 +1,123 @@
+html {
+  box-sizing: border-box;
+  font-size: 100%;
+  font-family: Arial;
+}
+
+* {
+  box-sizing: inherit;
+}
+
+$blue: #358ecc;
+
+.subscribe-1 {
+  position: absolute;
+  left: 0; top: 0; right: 0; bottom: 0;
+  width: 25.25em;
+  height: 5em;
+  margin: auto;
+  padding: 1em 0.75em;
+  border: 3px solid transparent;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: width 0.15s ease;
+  
+  &__active {
+    width: 31.25em;
+    border: 3px solid $blue;
+  }
+  
+  &__success {
+    border: 3px solid #4cce95;
+  }
+  
+  input[type="text"] {
+    color: $blue;
+    width: 75%;
+    height: 100%;
+    margin-right: 2%;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    font-size: 1rem;
+    border: 0;
+    outline: 0;
+  }
+  
+  button {
+    flex-grow: 1;
+    border: 0;
+    border-radius: 4px;
+    background: darken($blue, 10%);
+    color: #fff;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background 0.2s ease;
+    
+    &:hover {
+      background: $blue;
+    }
+  }
+}
+
+.subscribe__wrapper {
+  height: 100%;
+  display: flex;
+}
+
+.subscribe__toggle {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: darken($blue, 10%);
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.25em;
+  line-height: 70px;
+  border-radius: 4px;
+  transition: opacity 0.15s ease, background 0.2s ease;
+  //display: none;
+  
+  &__hidden {
+    opacity: 0;
+    pointer-events: none;
+  }
+  
+  &:hover {
+    background: $blue;
+  }
+}
+
+.subscribe__success {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  line-height: 70px;
+  color: #4cce95;
+  text-align: center;
+  background: #fff;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s 0.2s ease;
+  
+  &--active {
+    opacity: 1;
+  }
+}
+
+.more-concepts {
+  position: absolute;
+  left: 50%;
+  bottom: 20px;
+  transform: translateX(-50%);
+  text-decoration: none;
+  color: grey;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
