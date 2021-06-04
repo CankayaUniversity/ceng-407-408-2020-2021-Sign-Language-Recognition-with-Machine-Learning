@@ -17,4 +17,3 @@ Sign Language Recognition with Machine Learning
 * [Test Plan & Results](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Test-Plan-and-Results)
 * [Project Version-1 (Google Drive Link)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Project-Version-1--(Google-Drive-Link))
 * [Installation guide & User Manual](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/blob/87e4b2c2fb3193576b1c31a92840c2f388d35c59/SIGN%20LANGUAGE%20RECOGNATION%20USER%20MANUEL.pdf)
-* * [Installation guide & User Manual](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/blob/87e4b2c2fb3193576b1c31a92840c2f388d35c59/SIGN%20LANGUAGE%20RECOGNATION%20USER%20MANUEL.pdf)
