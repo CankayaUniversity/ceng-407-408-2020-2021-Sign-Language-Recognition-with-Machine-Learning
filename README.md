@@ -1,19 +1,79 @@
 # ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning
-Sign Language Recognition with Machine Learning
- 
-**Sign Language Recognition with Machine Learning Project Wiki Page**
-***
+**Requirements**
+---
 
-**Contents of this Wiki Page:**
-* [Project Description](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Project-Description)
-* [Group Members](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Group-Members)
-* [Literature Review](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Literature-Review)
-* [Project Work Plan](https://docs.google.com/spreadsheets/d/1rX_jmvqSai6_rB593YvdSJgxmJ7Ksgx5kLegegDMtuU/edit?usp=sharing)
-* [Software Requirements Specification (SRS)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Software-Requirements-Specification-(SRS))
-* [Project Web Page](https://signlanguagetranslation.wordpress.com/)
-* [Software Design Description (SDD)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Software-Design-Description-(SDD))
-* [Project Report 407](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Project-Report)
-* [Ceng 407 Presentation ](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/blob/main/Ceng407_Presentation.pptx)
-* [Test Plan & Results](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Test-Plan-and-Results)
-* [Project Version-1 (Google Drive Link)](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/wiki/Project-Version-1--(Google-Drive-Link))
-* [Installation guide & User Manual](https://github.com/CankayaUniversity/ceng-407-408-2020-2021-Sign-Language-Recognition-with-Machine-Learning/blob/87e4b2c2fb3193576b1c31a92840c2f388d35c59/SIGN%20LANGUAGE%20RECOGNATION%20USER%20MANUEL.pdf)
+Windows 7 SP1 or higher
+
+32-64-bit architecture
+
+Any CPU and GPU
+
+Internet connection
+
+Webcam access
+
+Black T-shirt
+
+**Click here to go to the project.**
+------
+https://ceng408.github.io/signlanguagetranslation/
+---
+**Dataset for the 'Metinden Görüntüye Çeviri' page:**
+---
+1- Ben
+
+2- Sen
+
+3- Seni seviyorum
+
+4- iki
+
+5- işaret dili öğreniyorum
+
+6- Merhaba
+
+7- Hoşçakal
+
+8- Demokrasi
+
+9- Kirli
+
+10- Çengel
+
+11- Deli
+
+12- Güney
+
+13- Bugün
+
+14- Cevap
+
+15- Rapor
+
+16- Yumruk
+
+17- üç
+
+18- Gerekli
+
+---
+
+**Dataset for the 'Görüntüden Metine Çeviri' page:**
+---
+1- Sıkılmak
+
+2- Seni seviyorum
+
+3- Bayan
+
+4- Cevap
+
+5- Tamam
+
+6- Güzel
+
+7- Beş
+
+---
+When you come to the 'Görüntüden Metine Çeviri' page, please wait 5-10 seconds for more accurate results.
+---
